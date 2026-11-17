@@ -1,11 +1,11 @@
 Question to be addressed:
-Orchids are one of the most diverse plant families, containing roughly 700 genera and thousands of species with unique physical characteristics. We want to investigate the efficacy of chloroplast trnH-psbA and rbcl DNA barcodes to distinguish between species within the Orchidaceae family. We also want to examine how genetically similar the sampled orchids are and whether their DNA barcode sequences reflect their taxonomic classifications. 
+Orchids are one of the most diverse plant families, containing roughly 700 genera and thousands of species with unique physical characteristics. We want to investigate the efficacy of chloroplast trnH-psbA   and rbcl DNA barcodes to distinguish between species within the Orchidaceae family. We also want to examine how genetically similar the sampled orchids are and whether their DNA barcode sequences reflect their      taxonomic classifications. 
 
         -How does genetic variation in the chloroplast trnH-psbA barcode differ among orchid species and genera? 
         (Rewrite main question?? – keep data the same)
 
 How to address the question
-We will use bioinformatics tools to gather publicly available sequences of the 6 plants from databases such as BOLD Systems and NCBI GenBank. We will then compare the genetic similarities between the orchid plants (using Clustal Omega) and determine whether the trnH-psbA barcode can better distinguish different orchid species, than rbcl, and potentially reveal relationships between difference orchid genera. 
+We will use bioinformatics tools to gather publicly available rbcL and trnH-psbA sequences of the 6 plants from databases such as BOLD Systems and NCBI GenBank. Our selected plants are found in the UWEC Greenhouse. We will then compare the genetic similarities between the orchid plants (using Clustal Omega) and determine whether the trnH-psbA barcode can better distinguish different orchid species than rbcl, and potentially reveal relationships between different orchid genera. 
 
 
 Experiments and protocol to generate data
