@@ -1,21 +1,11 @@
->Vanilla planifolia partial rbcL gene for RuBisCO, clone CR0211.
-        1 accaaagata ctgatatctt ggcagcattc cgagtaactc ctcaaccggg agttccgcct
-       61 gaagaagcag gggctgcggt agctgccgaa tcttctactg gtacatggac aactgtgtgg
-      121 actgatggac tgaccagtct tgatcgttac aaagggcgat gctaccacat cgagcccgtt
-      181 gttggggagg aaaatcaata tattgcttat gtagcttatc ctttagacct ttttgaagaa
-      241 ggctctgtta ctaacatgtt tacttccatt gtgggcaatg tatttgggtt taaagccctg
-      301 cgagctctac gtttggaaga cctgcgaatt ccaacttctt attccaaaac tttccaaggt
-      361 ccgccacatg gcatccaggt ggaaagagat aaattgaaca aatatggtcg tcccctattg
-      421 ggatgtacta ttaaaccaaa attgggatta tctgcaaaaa actacggtcg agcggtttat
-      481 gaatgtctac ggggtggact tgattttact aaggatgatg aaaacgtgaa ctcacaacca
-      541 tttatgcgtt ggagagatcg ttttgtattt tgtgccgaag caatttataa agcacaagcc
-      601 gaaacaggtg aaatcaaagg acattacttg aatgcaactg cgggtacctg tgaagaaatg
-      661 atcaaaagag cggtatttgc cagagaattg ggagttccta tcgtcatgca tgactactta
-      721 actggggggt tcaccgcaaa tactagcttg gctcattatt gccgcgacaa tggtctactt
-      781 cttcacatac atcgcgcaat gcatgcagtt atcgatagac agaaaaatca tggtatgcat
-      841 tttcgtgtac tagctaaagc attacgtatg tctgggggag atcatattca cgctggtaca
-      901 gtagtaggta aactggaggg cgagcgtgag ctaactttgg gttttgttga tttattacgt
-      961 gatgatttta ttgaaaaaga tcgaagtcgt ggtatttttt ttactcaaga ctgggtctct
-     1021 atgccaggtg ttctgccggt ggcttcaggg ggtattcatg tttggcatat gcctgcccta
-     1081 accgaaatct ttggggatga ttccgtacta cagttcggtg gaggaacttt agggcacccc
-     1141 tggggaaatg cgcccggtgc agtagctaat cgggtagctt tagaagcatg t
+>MF348723.1 Vanilla planifolia isolate AD7LN25 photosystem II protein D1 (psbA) gene, partial cds; and psbA-trnH intergenic spacer, partial sequence; chloroplast
+TTTACAAATGGATAATACTTTATATTTTTCTTTATATGATATGAATTTTTTAAGGTAGAAATTCCCCCAG
+TCTATTAATATTAGAATTAATATTAGACTGGGGGAATTTCGCTTCTGTATCCGAATTTTCGCTCTTTATC
+ATAAAAGTTCTCCCCCGCCAATGAAGGATAAGTGCCTAGGTGAAGTATCAGTAACAACGACTAACGACGA
+GATTTCTTATCTTTTTTTGTATGTCTCAAGAAAGTGTGAGTAGGTGCGAATTCTCCCAATTTGTGACCGA
+CCATACGATCTGTTATATAAATCGGCAAATGTTCCTTTCCATTATGAATAGCAATTGTATGGCCCACCAT
+TGTGGGTATAATAGTGGATGTCCGAGACCAAGTCACTATTATTTCTTTCTTCTTACTCATGTTTAGTTTT
+TCAATTTTTCCCGATAAATGATTAGCTACAAAAGGATTTTTTTTGAGTGAACGTGTCACGGGCCGATTAC
+TCCTTTTTTTTACATTTTTGAAATTGGCATTCTATGTCCAATATCTCGATCTGAATCTGAAGTATAAAGG
+TAATAATAAATACAATAATGATGAATGTAAAACAGAGAAAATCCTTTAGCTAGATAAGTGAAAGGGCGGA
+TGTA
