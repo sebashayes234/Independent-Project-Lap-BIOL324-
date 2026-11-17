@@ -1,0 +1,91 @@
+Question to be addressed:
+
+Orchids are one of the most diverse plant families, containing roughly 700 genera and thousands of species with unique physical characteristics. We want to investigate the efficacy of chloroplast trnH-psbA DNA barcode to distinguish between species within the Orchidaceae family. We also want to examine how genetically similar the sampled orchids are and whether their DNA barcode sequences reflect their taxonomic classifications. 
+
+-	How does genetic variation in the chloroplast trnH-psbA barcode differ among orchid species and genera within the UWEC greenhouse collection? 
+ 
+How to address the question
+We propose collecting leaf samples from approximately 6 different orchid species within the UWEC greenhouse. We will isolate DNA from the collected samples and use PCR to amplify the chloroplast trnH-psbA barcode region. The amplified DNA fragments will be sent for sequencing. Once we obtain the sequences, we will use bioinformatics tools to compare the barcode sequences against publicly available sequences in databases such as BOLD systems and NCBI GenBank. We will then compare the genetic similarities between the sampled orchids and determine whether the trnH-psbA barcode can distinguish different orchid species and potentially reveal relationships between different orchid genera. 
+
+Experiments and protocol to generate data
+1.	Find DNA sequences for all 
+2.	Analyze results by comparing them to each other and other sequences in the database 
+3.	Provide a presentation of the data
+
+
+
+
+
+Identify when each should be completed
+ 11/17: Week 1
+•	Gather DNA sequences for each plant
+o	Research, gathering data, alignment, analysis 
+11/24: Week 2
+•	Prepare PCR products for sequencing TBD
+12/1: Week 3
+•	Analyze results TBD
+12/8: Week 4
+•	Presentation Day 
+
+
+Identify reagents, supplies, and equipment
+Websites
+•	DNA Sequencing site (e.g. BOLD, NCBI)
+
+Primers
+•	trnh-psba primer (forward and reverse)
+•	rbcl primer (forward and reverse)
+
+Samples
+•	"Dendrobium" as our selected genus
+o	Dendrobium x delicatum
+	Has rbcl results in BOLD
+o	Dendrobium loddigesii
+	Has rbcl results in BOLD
+o	Dendrobium moniliforme
+	Has rbcl results in BOLD
+•	"Orchidaceae" as our selected family
+o	Ludisia discolor
+	Has rbcl results in BOLD
+	Has trnH-psbA results in BOLD
+o	Vanilla planifolia
+	Has rbcl results in BOLD
+o	Sobralia macrantha
+	Has rbcl results in BOLD
+	Has trnH-pasbA results in BOLD
+•	12 samples total (6 with trnH-psbA primer, 6 with rbcl primer)
+
+Plant Sample Collection
+•	Aluminum foil
+•	Tape
+•	Dissecting scissors
+•	Online 
+
+Genomic DNA Isolation and PCR
+•	12 samples total (6 with trnh-psba primer, 6 with rbcl primer)
+•	Lysis solution
+•	Whatman NO. 1 Chromatography paper discs
+•	TE
+•	Taq 2X Master Mix
+•	Taq polymerase
+•	Primer mix
+•	Template DNA
+•	Microcentrifuge tubes
+•	Sterile tweezers
+•	Ethanol
+
+Agarose Gel Electrophoresis
+Either 1.2% or 2% agrose minigel
+
+
+ 
+
+
+
+
+Identify any potential issues
+Samples will need to be sent in for sequencing. Issues may arise from the fact that this will have to be prepared a week beforehand.
+We may not have the number of plants ideally needed for this project.
+We may not have time to perform all samples.
+No PCR product.
+Limited or no supply of viable plant products for PCR.
